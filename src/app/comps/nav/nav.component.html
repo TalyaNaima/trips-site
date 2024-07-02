@@ -1,0 +1,8 @@
+<div class="dock-window">
+    <p-dock [model]="items" position="top">
+        <ng-template class="icon" pTemplate="item" let-item>
+            <img *ngIf="(this.item.link!='personal' || this.us.currentCust.email!='') && 
+            (this.item.link!='users' || this.us.isAdmin)" [src]="item.icon" width="100%" [routerLink]="item.link" />
+        </ng-template>
+    </p-dock>
+</div>

@@ -1,0 +1,25 @@
+     <table class="container">
+         <thead>
+             <tr>
+                 <th><h1>User Id</h1></th>
+                 <th><h1>First Name</h1></th>
+                 <th><h1>Last Name</h1></th>
+                 <th><h1>Phone</h1></th>
+                 <th><h1>Email</h1></th>
+                 <th><h1>Password</h1></th>
+                 <th><h1>Is First Aid?</h1></th>
+             </tr>
+         </thead>
+         <tbody>
+             <tr *ngFor="let u of us.allUsers">
+                 <td>{{u.userId}}</td> 
+                 <td>{{u.firstName}}</td>
+                 <td>{{u.lastName}}</td> 
+                 <td>{{u.phone}}</td>
+                 <td>{{u.email}}</td>
+                 <td>{{u.password}}</td>
+                 <td>{{u.isFirstAid}}</td>
+             </tr>
+         </tbody>
+     </table>
+

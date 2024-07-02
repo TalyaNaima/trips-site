@@ -1,0 +1,64 @@
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Log in</title>
+</head>
+
+<body>
+  <div class="container">
+    <form (ngSubmit)="register()">
+      <p>{{title}}</p>
+      <div class="input_field"> <span><i aria-hidden="true" class="fa fa-lock"></i></span>
+        <input name="fname" placeholder="first name" [(ngModel)]="cust.firstName" #fn="ngModel" fname
+          minlength="3" /><br>
+        <section *ngIf="fn.invalid && fn.touched ">
+          <p *ngIf="fn.errors!['minlength']">name too short</p>
+        </section>
+      </div>
+      <div class="input_field"><span><i aria-hidden="true" class="fa fa-lock"></i></span>
+        <input name="lname" placeholder="last name" [(ngModel)]="cust.lastName" #ln="ngModel" lname minlength="3"><br>
+        <section *ngIf="ln.invalid && fn.touched">
+          <p *ngIf="fn.errors!['minlength']">name too short</p>
+        </section>
+      </div>
+      <div class="input_field"> <span><i aria-hidden="true" class="fa fa-lock"></i></span>
+        <input name="phone" placeholder="phone" [(ngModel)]="cust.phone" #p="ngModel" pattern="[0-9]{10}"><br>
+        <section *ngIf="p.invalid && p.touched">
+          <p *ngIf="p.errors!['pattern']">10 digits only</p>
+        </section>
+      </div>
+      <input name="firstAid" type="checkbox" aria-label="Toggle switch on/off" data-on="first aid certiricate"
+        data-off="no certificate" [(ngModel)]="cust.isFirstAid"><br>
+      <div class="input_field"> <span><i aria-hidden="true" class="fa fa-envelope"></i></span>
+        <input name="email" type="email" placeholder="email" [(ngModel)]="cust.email" email minlength="7" maxlength="25"
+          #inpemail="ngModel" /><br>
+        <section *ngIf="inpemail.invalid">
+          <p *ngIf="inpemail.errors!['minlength']">mail address too short</p>
+          <p *ngIf="inpemail.errors!['email']">invalid mail address</p>
+        </section>
+      </div>
+      <div class="input_field"> <span><i aria-hidden="true" class="fa fa-lock"></i></span>
+        <input name="pass" type="password" placeholder="Password" #password="ngModel" [(ngModel)]="cust.password"
+          password minlength="3" password maxlength="8"><br>
+        <section *ngIf="password.invalid && password.touched">
+          <p *ngIf="password.errors!['required']">required</p>
+          <p *ngIf="password.errors!['minlength']">password to short</p>
+          <p *ngIf="password.errors!['maxlength']">password to long</p>
+        </section>
+      </div>
+      <input type="button" *ngIf="title==='edit'" (click)="deleteUser()" value="delete subscription"><br>
+      <input type="submit" [value]="btnval"> <br>
+    </form>
+    <div class="drops">
+      <div class="drop drop-1"></div>
+      <div class="drop drop-2"></div>
+      <div class="drop drop-3"></div>
+      <div class="drop drop-4"></div>
+      <div class="drop drop-5"></div>
+    </div>
+  </div>
+</body>
+
+</html>

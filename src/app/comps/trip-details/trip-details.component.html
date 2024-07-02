@@ -1,0 +1,24 @@
+<div id="modal-container" class="modal-active one">
+  <div class="modal-background">
+    <div class="modal" [ngStyle]='{"background-image":getStyle(t.picture)}'>
+      <h2>destination:{{t.yhad}}</h2>
+      <h2>price:{{t.price}}</h2>
+      <h2>date:{{t.tripDate}}</h2>
+      <h2>duration:{{t.tripDuration}}</h2>
+      <h2>empty places:{{t.tripEmptyPlace}}</h2>
+      <h2>leaving time:{{t.tripTime}}</h2>
+      <h2>trip type: {{t.tripTypeName}}</h2>
+      <button *ngIf="!open" (click)="openOrder()">to join a trip</button><br>
+      <div *ngIf="open">
+        <input [(ngModel)]="tickets" name="tick" type="number" placeholder="input number of tickets"><br>
+        <button (click)="order()">order</button>
+        <!-- קריאה לפונקציה שמטפלת בהזמנה -->
+        <!-- הפונקציה צריכה לבדוק שאכן קיימים מספיק מקומות בטיול ולהוסיפ את הטיול למשתמש -->
+
+        <button (click)="close()">cancel</button>
+        <br>
+      </div>
+      <button (click)="close()">close</button><br>
+    </div>
+  </div>
+</div>

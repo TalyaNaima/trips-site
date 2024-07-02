@@ -1,0 +1,42 @@
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Log in</title>
+</head>
+
+<body>
+  <div class="container">
+    <form (ngSubmit)="login()" #myForm="ngForm">
+      <p>Welcome</p>
+      <div class="input_field"> <span><i aria-hidden="true" class="fa fa-envelope"></i></span>
+        <input name="email" type="email" placeholder="Email" [(ngModel)]="cust.email" email minlength="7" maxlength="25"
+          #inpEmail="ngModel" /><br>
+        <section *ngIf="inpEmail.invalid">
+          <p *ngIf="inpEmail.errors!['minlength']">mail address too short</p>
+          <p *ngIf="inpEmail.errors!['email']">invalid mail address</p>
+        </section>
+      </div>
+      <div class="input_field"> <span><i aria-hidden="true" class="fa fa-lock"></i></span>
+        <input name="pass" type="password" placeholder="Password" #password="ngModel" [(ngModel)]="cust.password"
+          password minlength="3" password maxlength="8"><br>
+        <section *ngIf="password.invalid && password.touched">
+          <p *ngIf="password.errors!['required']">required</p>
+          <p *ngIf="password.errors!['minlength']">password to short</p>
+          <p *ngIf="password.errors!['maxlength']">password to long</p>
+        </section>
+      </div>
+      <input type="submit" value="Sign in"><br>
+    </form>
+
+    <div class="drops">
+      <div class="drop drop-1"></div>
+      <div class="drop drop-2"></div>
+      <div class="drop drop-3"></div>
+      <div class="drop drop-4"></div>
+      <div class="drop drop-5"></div>
+    </div>
+  </div>
+</body>
+
+</html>

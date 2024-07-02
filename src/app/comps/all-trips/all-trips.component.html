@@ -1,0 +1,39 @@
+<!-- סינון לפי סוג טיול -->
+<label>
+  <select (change)="filter1()" [(ngModel)]="selectedType" name="s">
+    <option value="-1" disabled selected hidden>select the trip type</option>
+    <option value="0">all trips</option>
+    <option style="color: black;" *ngFor="let t of typeS.typeList" [value]="t.typeId ">{{t.typeName}}</option>
+  </select>
+</label>
+<!-- סינון לפי מחיר -->
+<label *ngIf="isMine">
+  <input class="select" value="0" placeholder="input the max price" type="number" (change)="filter1()"
+    [(ngModel)]="selectedPrice" name="s2">
+</label>
+<br>
+
+<div class="container">
+  <div *ngFor="let t of ts.filteredTrips" class="panel">
+    <a routerLink="{{link}}/{{t.tripId}}">
+      <div class="ring">
+        <div class="card card1" [ngStyle]='{"background-image":getStyle(t.picture)}'></div>
+        <div class="border">
+          <p class="title">{{t.yhad}}</p>
+          <div class="slide">
+            <h6 class="para">{{t.tripTypeName}}</h6>
+            <div class="line">
+              <h6 class="para">price:</h6> <i class="fa fa-plane" aria-hidden="true"></i>
+              <h6 class="para">{{t.price}}</h6>
+            </div>
+            <div class="line">
+              <h6 class="para">date:</h6> <i class="fa fa-plane" aria-hidden="true"></i>
+              <h6 class="para">{{t.tripDate | date}}</h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+<router-outlet></router-outlet>
