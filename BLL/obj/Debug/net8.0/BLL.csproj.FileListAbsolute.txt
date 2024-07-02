@@ -1,0 +1,51 @@
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\bin\Debug\net8.0\BLL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\bin\Debug\net8.0\BLL.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\bin\Debug\net8.0\DAL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\bin\Debug\net8.0\DTO.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\bin\Debug\net8.0\DAL.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\bin\Debug\net8.0\DTO.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\BLL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\BLL.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\BLL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\BLL.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\bin\Debug\net8.0\BLL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\bin\Debug\net8.0\BLL.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\bin\Debug\net8.0\DAL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\bin\Debug\net8.0\DTO.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\bin\Debug\net8.0\DAL.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\bin\Debug\net8.0\DTO.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\bin\Debug\net8.0\BLL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\bin\Debug\net8.0\DAL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\bin\Debug\net8.0\DTO.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\bin\Debug\net8.0\DAL.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\bin\Debug\net8.0\DTO.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\BLL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\BLL\obj\Debug\net8.0\ref\BLL.dll

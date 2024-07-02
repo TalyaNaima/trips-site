@@ -1,0 +1,42 @@
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\bin\Debug\net8.0\DAL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\bin\Debug\net8.0\DAL.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\DAL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\DAL.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\bin\Debug\net8.0\DAL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\bin\Debug\net8.0\DAL.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\DAL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\DAL.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\bin\Debug\net8.0\DAL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\DAL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DAL\obj\Debug\net8.0\ref\DAL.dll

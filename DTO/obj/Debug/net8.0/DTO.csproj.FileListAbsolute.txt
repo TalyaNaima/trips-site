@@ -1,0 +1,45 @@
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\bin\Debug\net8.0\DTO.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\bin\Debug\net8.0\DTO.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\bin\Debug\net8.0\DAL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\bin\Debug\net8.0\DAL.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\DTO.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\DTO.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\DTO.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\DTO.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\bin\Debug\net8.0\DTO.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\bin\Debug\net8.0\DTO.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\bin\Debug\net8.0\DAL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\bin\Debug\net8.0\DAL.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\bin\Debug\net8.0\DTO.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\bin\Debug\net8.0\DTO.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\bin\Debug\net8.0\DAL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\bin\Debug\net8.0\DAL.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\DTO.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\DTO.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\DTO\obj\Debug\net8.0\ref\DTO.dll
