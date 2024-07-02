@@ -1,0 +1,431 @@
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\appsettings.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Humanizer.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\BLL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\DAL.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\DTO.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\BLL.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\DAL.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\bin\Debug\net8.0\DTO.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\לא קשור למסלול\מרים ורבקה\Server\Trips\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\appsettings.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Humanizer.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ServiceStack.Text.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\BLL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\DAL.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\DTO.dll
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\BLL.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\DAL.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\bin\Debug\net8.0\DTO.pdb
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\'שנה ב\angular\פרוייקט גמר\Server\Trips\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\appsettings.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Humanizer.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ServiceStack.Text.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.CodeDom.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\BLL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\DAL.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\DTO.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\BLL.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\DAL.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\bin\Debug\net8.0\DTO.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\Users\The user\Desktop\מסלול\אנגולר\Server\Trips\WebApi\obj\Debug\net8.0\ref\WebApi.dll
